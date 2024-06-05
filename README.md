@@ -4,10 +4,8 @@ A tool for matching or aligning of ontologies with transformer language models.
 
 ## Install
 
-The code in this repo is written in `Python v3.8.5` and uses `poetry` as dependency management tool.
-
-1. Create the basic `conda` environment: `conda env create -f environment.yml`
-2. Install python dependencies: `poetry install`
+The code in this repo is written in `Python v3.8.5` and uses a requirements file for virtual environment.
+`pip install -r requirements.txt`
 
 ## Code Structure Overview
 
