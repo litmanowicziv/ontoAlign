@@ -21,7 +21,7 @@
     <!-- Accessing the resources:
     - all files in "oaei-resources" folder are stored in the current working directory and can be accessed with 
           Files.readAllLines(Paths.get("oaei-resources", "configuration_oaei.txt"));
-    - all files in "src/main/resources" folder are compiled to the resulting jar and can be accessed with
+    - all files in "ontoAlign/main/resources" folder are compiled to the resulting jar and can be accessed with
           getClass().getClassLoader().getResourceAsStream("configuration_jar.txt");
     -->
     
